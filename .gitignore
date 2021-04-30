@@ -1,0 +1,11 @@
+.idea
+__history
+__recovery
+build
+bin
+
+WD05_*.*.*.*.exe
+
+*.dcu
+*.local
+*.identcache
